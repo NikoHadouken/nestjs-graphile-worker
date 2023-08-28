@@ -1,17 +1,17 @@
 {
-  "name": "nestjs-graphile-worker",
+  "name": "@nikohadouken/nestjs-graphile-worker",
   "version": "0.3.3",
   "description": "A Nest.js wrapper for Graphile Worker",
   "author": "Alexandre Rousseau <alexandre@rsseau.fr>",
   "private": false,
   "license": "MIT",
-  "homepage": "https://github.com/madeindjs/nestjs-graphile-worker",
+  "homepage": "https://github.com/NikoHadouken/nestjs-graphile-worker",
   "bugs": {
-    "url": "https://github.com/madeindjs/nestjs-graphile-worker/issues"
+    "url": "https://github.com/NikoHadouken/nestjs-graphile-worker/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/madeindjs/nestjs-graphile-worker.git"
+    "url": "git+https://github.com/NikoHadouken/nestjs-graphile-worker.git"
   },
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
